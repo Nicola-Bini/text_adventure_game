@@ -1,0 +1,7 @@
+CHAR_TEST
+
+"HELP ME"
+
+"YES"
+
+"NO"
