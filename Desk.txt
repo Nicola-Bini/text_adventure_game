@@ -1,7 +1,8 @@
-CHAR_TEST
-
-"HELP ME"
-
-"YES"
-
-"NO"
+ID#Prof#
+INTRO MSG#You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
+QUESTION#In what year was Python being released?#
+CORRECT ANSWER#1991#
+WIN MSG#Great, you can continue#
+LOSE MSG#"Wrong! It's 1991!!"#
+WIN OUTRO MSG#The Professor opens your room and you continue to wander in the maze#
+LOSE OUTRO MSG#The Professor kills you#
