@@ -1,4 +1,4 @@
-#@#
+1
 name                          #Prof#
 encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
 intro_msg                     #HI I'M SILVIO!!#
@@ -8,7 +8,7 @@ win_msg                       #Great, you can continue#
 lose_msg                      #"Wrong! It's 1991!!"#
 outro_win                     #The Professor opens your room and you continue to wander in the maze#
 outro_lose                    #The Professor kills you#
-@#
+1
 name                          #Prof#
 encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
 intro_msg                     #HI I'M SILVIO 2!!#
