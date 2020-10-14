@@ -1,9 +1,20 @@
-    name                          #Prof#
-    encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
-    intro_msg                     #HI I'M SILVIO!!#
-    question                      #In what year was Python being released?#
-    correct_answer                #1991#
-    win_msg                       #Great, you can continue#
-    lose_msg                      #"Wrong! It's 1991!!"#
-    outro_win                     #The Professor opens your room and you continue to wander in the maze#
-    outro_lose                    #The Professor kills you#
+@
+name                          #Prof#
+encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
+intro_msg                     #HI I'M SILVIO!!#
+question                      #In what year was Python being released?#
+correct_answer                #1991#
+win_msg                       #Great, you can continue#
+lose_msg                      #"Wrong! It's 1991!!"#
+outro_win                     #The Professor opens your room and you continue to wander in the maze#
+outro_lose                    #The Professor kills you#
+@
+name                          #Prof#
+encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
+intro_msg                     #HI I'M SILVIO 2!!#
+question                      #In what year was Python being released?#
+correct_answer                #1991#
+win_msg                       #Great, you can continue#
+lose_msg                      #"Wrong! It's 1991!!"#
+outro_win                     #The Professor opens your room and you continue to wander in the maze#
+outro_lose                    #The Professor kills you#
