@@ -1,4 +1,4 @@
-@#
+#@#
 name                          #Prof#
 encounter_desc                #You reach a pitch dark room, as soon as you enter, the room behind is being shut by a mysterious dark figure.#
 intro_msg                     #HI I'M SILVIO!!#
