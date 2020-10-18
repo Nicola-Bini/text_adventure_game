@@ -1,30 +1,36 @@
 @
-name                          #Nicola#
-encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
-intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
-question                      #In what year was Python being released?#
-correct_answer                #1991#
-win_msg                       #Correct, the right door is the safe one#
-lose_msg                      #Correct, the left door is the safe one#
-outro_win                     #You open the right door, you see a long corridor and you start walking.#
-outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
+name			#Claus#
+apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes, he used to be quite fat.#
+question		#How is it called the first reindeer of min- Santa Claus?#
+option_1		#Rudolf#
+option_2		#Lainer#
+option_3		#Mandonf#
+option_4		#George#
+correct_answer		#1#
+win_msg			#Good job, son. But, this year the world is going to miss Christmas#
+lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
+author			#Nicolab#
 @
-name                          #Nicola2#
-encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
-intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
-question                      #In what year was Python being released?#
-correct_answer                #1991#
-win_msg                       #Correct, the right door is the safe one#
-lose_msg                      #Correct, the left door is the safe one#
-outro_win                     #You open the right door, you see a long corridor and you start walking.#
-outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
+name			#Prof. Cheese#
+apperance		#He's a fit good looking man, he's washing his hands with reusable wipes.#
+question		#What famous celebrity was born on the same day the first version of Python was released?#
+option_1		#Dylan O'Brien#
+option_2		#Emma Roberts#
+option_3		#Taylor Swift#
+option_4		#Ashley Park#
+correct_answer		#3#
+win_msg			#Correct!! you followed my lessons, didn't you?#
+lose_msg		#Wrong!... but here's a wipe for your hands!#
+author			#Nicolab#
 @
-name                          #Nicola3#
-encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
-intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
-question                      #In what year was Python being released?#
-correct_answer                #1991#
-win_msg                       #Correct, the right door is the safe one#
-lose_msg                      #Correct, the left door is the safe one#
-outro_win                     #You open the right door, you see a long corridor and you start walking.#
-outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
+name			#andsxxxxx#
+apperance		#she's 22 and 5'4 tall. she loves coffee as much as she hates carrots. #
+question		#What is the color of the moon #
+option_1		#Orange#
+option_2		#324234rewds243wcd#
+option_3		#Yellow#
+option_4		#White#
+correct_answer		#3#
+win_msg			#Fantastic! That was a hard question but you were able to get it correctly! Good job hooman#
+lose_msg		#Merp#
+author			#Andeeù#
