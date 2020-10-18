@@ -58,3 +58,15 @@ correct_answer		#1#
 win_msg			#Congrats! Something good will happen to you this week#
 lose_msg		#Dont worry. Tomorrow is another day!#
 author			#Maria#
+@
+name			#Max#
+apperance		#He's a tall and thin man with rollers. He is skating showing some skills. He has a powerful voice.#
+question		#Which is the right binary representation of the number 27?#
+option_1		#11010#
+option_2		#11011#
+option_3		#11100#
+option_4		#11001#
+correct_answer		#2#
+win_msg			#Great job, dude. Remember to practising skating, you have to become a greater skater!#
+lose_msg		#No dude, you need also to study other than practising skating. The right answer is 11011.#
+author			#M909#
