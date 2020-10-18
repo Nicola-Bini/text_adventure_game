@@ -46,3 +46,15 @@ correct_answer		#3#
 win_msg			#... how did you know it?#
 lose_msg		#Eh eh eh, I knew it!#
 author			#Nicolab#
+@
+name			#Goose Violet#
+apperance		#She spends a lot of her time procrastinating and she loves pineapple on pizza. #
+question		#What is sin(x) + cos(x) = ?#
+option_1		#1#
+option_2		#idk#
+option_3		#what is that#
+option_4		#0#
+correct_answer		#1#
+win_msg			#Congrats! Something good will happen to you this week#
+lose_msg		#Dont worry. Tomorrow is another day!#
+author			#Maria#
