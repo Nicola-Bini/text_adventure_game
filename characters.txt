@@ -45,4 +45,4 @@ option_4		#Follow Me#
 correct_answer		#3#
 win_msg			#... how did you know it?#
 lose_msg		#Eh eh eh, I knew it!#
-author			#c#
+author			#Nicolab#
