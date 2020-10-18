@@ -1,0 +1,30 @@
+@
+name                          #Nicola#
+encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
+intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
+question                      #In what year was Python being released?#
+correct_answer                #1991#
+win_msg                       #Correct, the right door is the safe one#
+lose_msg                      #Correct, the left door is the safe one#
+outro_win                     #You open the right door, you see a long corridor and you start walking.#
+outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
+@
+name                          #Nicola2#
+encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
+intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
+question                      #In what year was Python being released?#
+correct_answer                #1991#
+win_msg                       #Correct, the right door is the safe one#
+lose_msg                      #Correct, the left door is the safe one#
+outro_win                     #You open the right door, you see a long corridor and you start walking.#
+outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
+@
+name                          #Nicola3#
+encounter_desc                #You reach a dead end with 2 doors and a man sitting on a cozy armchair in the middle, you stop him to ask #
+intro_msg                     #"Do you want some help to exit this maze? Answer the following question correctly and I'll tell you which of the 2 doors leads toward the exit, but if you are answer uncorrectly or you try to run I'll kill you.#
+question                      #In what year was Python being released?#
+correct_answer                #1991#
+win_msg                       #Correct, the right door is the safe one#
+lose_msg                      #Correct, the left door is the safe one#
+outro_win                     #You open the right door, you see a long corridor and you start walking.#
+outro_lose                    #You open the left door and suddenly a big tiger comes out of the door and it devour you, while fighting you see Nicola smiling at you and saying "wrong answer U+1F60F#
