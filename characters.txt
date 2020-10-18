@@ -34,3 +34,15 @@ correct_answer		#3#
 win_msg			#Fantastic! That was a hard question but you were able to get it correctly! Good job hooman#
 lose_msg		#Merp#
 author			#Andeeù#
+@
+name			#Martin Sal#
+apperance		#He's short with green shining eyes, he looks scared by you#
+question		#What is the famous multiplayer game where you need to find the impostor?#
+option_1		#Call of Duty#
+option_2		#Starcraft II#
+option_3		#Among Us#
+option_4		#Follow Me#
+correct_answer		#3#
+win_msg			#... how did you know it?#
+lose_msg		#Eh eh eh, I knew it!#
+author			#c#
