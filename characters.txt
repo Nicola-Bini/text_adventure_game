@@ -71,7 +71,6 @@ win_msg			#Great job, dude. Remember to practising skating, you have to become a
 lose_msg		#No dude, you need also to study other than practising skating. The right answer is 11011.#
 author			#M909#
 @
-@
 name			#panizza#
 apperance		#he's tall and skinny. he's completely naked and is offering you a joint#
 question		#what's the meaning of life?#
