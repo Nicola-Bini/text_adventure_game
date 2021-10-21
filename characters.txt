@@ -1,5 +1,5 @@
 @
-name			#Claus#
+name			  #Claus#
 apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes, he used to be quite fat.#
 question		#How is it called the first reindeer of min- Santa Claus?#
 option_1		#Rudolf#
@@ -11,7 +11,7 @@ win_msg			#Good job, son. But, this year the world is going to miss Christmas#
 lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
 author			#Nicolab#
 @
-name			#Prof. Cheese#
+name			  #Prof. Cheese#
 apperance		#He's a fit good looking man, he's washing his hands with reusable wipes.#
 question		#What famous celebrity was born on the same day the first version of Python was released?#
 option_1		#Dylan O'Brien#
@@ -23,7 +23,7 @@ win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
 @
-name			#andsxxxxx#
+name			  #andsxxxxx#
 apperance		#she's 22 and 5'4 tall. she loves coffee as much as she hates carrots. #
 question		#What is the color of the moon #
 option_1		#Orange#
@@ -35,7 +35,7 @@ win_msg			#Fantastic! That was a hard question but you were able to get it corre
 lose_msg		#Merp#
 author			#Andeeù#
 @
-name			#Martin Sal#
+name	  		#Martin Sal#
 apperance		#He's short with green shining eyes, he looks scared by you#
 question		#What is the famous multiplayer game where you need to find the impostor?#
 option_1		#Call of Duty#
@@ -47,7 +47,7 @@ win_msg			#... how did you know it?#
 lose_msg		#Eh eh eh, I knew it!#
 author			#Nicolab#
 @
-name			#Goose Violet#
+name		  	#Goose Violet#
 apperance		#She spends a lot of her time procrastinating and she loves pineapple on pizza. #
 question		#What is sin(x) + cos(x) = ?#
 option_1		#1#
@@ -59,7 +59,7 @@ win_msg			#Congrats! Something good will happen to you this week#
 lose_msg		#Dont worry. Tomorrow is another day!#
 author			#Maria#
 @
-name			#Max#
+name		  	#Max#
 apperance		#He's a tall and thin man with rollers. He is skating showing some skills. He has a powerful voice.#
 question		#Which is the right binary representation of the number 27?#
 option_1		#11010#
@@ -71,7 +71,7 @@ win_msg			#Great job, dude. Remember to practising skating, you have to become a
 lose_msg		#No dude, you need also to study other than practising skating. The right answer is 11011.#
 author			#M909#
 @
-name			#panizza#
+name		  	#panizza#
 apperance		#he's tall and skinny. he's completely naked and is offering you a joint#
 question		#what's the meaning of life?#
 option_1		#drugs#
@@ -82,3 +82,15 @@ correct_answer	#3#
 win_msg			#eeeeeeeeeeh bravo good job. i also would have accepted the answer number 4#
 lose_msg		#no dumbass it's wrong#
 author			#Luca#
+@
+name      #fado#
+apperance #He's normal#
+question  #what is the best cartoon show?#
+option_1  #the simpson#
+option_2  #american dad#
+option_3  #rick & morty#
+option_4  #bojack horseman#
+correct_answer  #1#
+win_msg   #of course!#
+lose_msg  #you got it wrong man#
+author    #felipe#
