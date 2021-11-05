@@ -11,8 +11,8 @@ win_msg			#Good job, son. But, this year the world is going to miss Christmas#
 lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
 author			#Nicolab#
 @
-name			  #Prof. Cheese#
-apperance		#He's a fit good looking man, he's washing his hands with reusable wipes.#
+name			  #Prof. Chaese#
+apperance		#He's a fit good looking man, he's wearing a suit.#
 question		#What famous celebrity was born on the same day the first version of Python was released?#
 option_1		#Dylan O'Brien#
 option_2		#Emma Roberts#
@@ -20,7 +20,7 @@ option_3		#Taylor Swift#
 option_4		#Ashley Park#
 correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
-lose_msg		#Wrong!... but here's a wipe for your hands!#
+lose_msg		#Wrong!... but here's a wipe to clean your dirty computer!#
 author			#Nicolab#
 @
 name			  #andsxxxxx#
